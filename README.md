@@ -13,7 +13,7 @@ This is a simple weather application which helps us to know the weather of our c
 
 - [HTML]()
 - [CSS]()
-- [JavaScript](https://www.javascript.com/)'='
+- [JavaScript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/)
 - Web API : [OpenWeatherMap](https://openweathermap.org/api)
 
